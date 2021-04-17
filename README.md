@@ -78,4 +78,5 @@ Second Part
 * [Notebook to Twitter NLP](Code/NLP_twitter1.ipynb)
 
 ## Reference ##
-This ETF is build upon a proof of concept exercise conducted under: (https://github.com/absahir/D.E.G.A._StockScreener)
+This ETF is build upon a proof of concept exercise conducted under: 
+* [Project 1](https://github.com/absahir/D.E.G.A._StockScreener)
