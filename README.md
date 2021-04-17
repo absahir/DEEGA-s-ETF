@@ -1,0 +1,1 @@
+# DEEGA-s-ETF
