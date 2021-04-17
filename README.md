@@ -41,7 +41,13 @@ Under normal conditions the Fund intends to invest 100% of its net assets in an 
 
 ## FUND FEES AND EXPENSES ##
 Since fees and expenses play and important part in your overall returns, we aim to keep it low as compared to many of our peers. What enables us to keep our expenses low is the power of machine learning. 
-![image](https://user-images.githubusercontent.com/34671710/115122960-c8e8ca00-9f88-11eb-9bfa-4b924765faec.png)
+
+PORTFOLIO PERFORMANCE
+                       
+![image](https://user-images.githubusercontent.com/34671710/115123057-457ba880-9f89-11eb-87a5-ec3d80c1a54d.png)
+
+![image](https://user-images.githubusercontent.com/34671710/115123069-53c9c480-9f89-11eb-9796-66b128af185c.png)
+
 
 
 ## 2.0 Tools used
