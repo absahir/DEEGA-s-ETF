@@ -3,7 +3,7 @@
 
 > ## A Social Sentiment based ETF powered by NLP and Sentiment Analysis ##
 
-## 1.Project Outline
+## 1.Project Outline ##
 
 3 months of data from news api, bloomberg api, and reddit api
 
