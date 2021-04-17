@@ -66,8 +66,16 @@ Second Part
 
 ## 9. Link to our code ##
 
-
-
+* [DEGA tool- a tool to save tweets](Code/DEGA_TOOL.ipynb)
+* [Notebook to News Sentiment](Code/NEWS_API.ipynb)
+* [Notebook to News_BERT](Code/NEWS_BERT.ipynb)
+* [Notebook to News RNN](Code/NEWS_RNN.ipynb)
+* [Notebook Ticker Grabber Tool](Code/Ticker_Grabber_Tool.ipynb)
+* [Notebook Buy sell](Code/buysell.ipynb)
+* [Notebook Portfolio Returns](Code/portfolio_returns2.ipynb)
+* [Notebook Portfolio Returns with dashboard](Code/portfolio_returns_with_dashboard.ipynb)
+* [Notebook to Twitter Sentiment](Code/Gabby_Sentiment_Master.ipynb)
+* [Notebook to Twitter NLP](Code/NLP_twitter1.ipynb)
 
 ## Reference ##
 This ETF is build upon a proof of concept exercise conducted under: (https://github.com/absahir/D.E.G.A._StockScreener)
