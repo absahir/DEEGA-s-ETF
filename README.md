@@ -1,7 +1,7 @@
 # DEEGA-s-ETF
 
 
-> ## A Sentiment based approach to build an ETF powered by NLP and Sentiment Analysis ##
+> ## An EFT powered by NLP and Sentiment Analysis ##
 
 ## 1.Project Outline ##
 
