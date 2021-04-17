@@ -44,19 +44,20 @@ Since fees and expenses play and important part in your overall returns, we aim 
 
 PORTFOLIO PERFORMANCE
                        
+![image](https://user-images.githubusercontent.com/34671710/115123185-ef5b3500-9f89-11eb-8671-acd18ee50f14.png)
 
-![image](https://user-images.githubusercontent.com/34671710/115123069-53c9c480-9f89-11eb-9796-66b128af185c.png)
+
 
 The portfolio performance is based on a 14-day trading cycle. The fund has managed to meet all its targets set by the portfolio managers, including beating the benchmark S&P 500. 
  
  
 PRINCIPAL RISKS
-a)	Concentration Risk: Since market sentiments tend to, at times, favor certain sectors or economy, there is chance that the Funds’ investment can get crowded into a particular sector. The regular reviews of the sector will help in mitigating this risk.
-b)	Market Risk: The investments are exposed subject to the market risk like all investments. The diverse nature of the portfolio will help in mitigating a few of the risks.
-c)	New Fund Risk: The Fund is new type of fund with limited or no operational history and a small asset base. 
-d)	Risk of social media analytics: Social media analytics aim 
+> a)	Concentration Risk: Since market sentiments tend to, at times, favor certain sectors or economy, there is chance that the Funds’ investment can get crowded into a particular sector. The regular reviews of the sector will help in mitigating this risk.
+> b)	Market Risk: The investments are exposed subject to the market risk like all investments. The diverse nature of the portfolio will help in mitigating a few of the risks.
+> c)	New Fund Risk: The Fund is new type of fund with limited or no operational history and a small asset base. 
+> d)	Risk of social media analytics: Social media analytics aim 
 
-![image](https://user-images.githubusercontent.com/34671710/115123110-81167280-9f89-11eb-9121-b4a9037c8b72.png)
+
 
 
 
