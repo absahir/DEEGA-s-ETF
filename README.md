@@ -44,7 +44,6 @@ Since fees and expenses play and important part in your overall returns, we aim 
 
 PORTFOLIO PERFORMANCE
                        
-![image](https://user-images.githubusercontent.com/34671710/115123057-457ba880-9f89-11eb-87a5-ec3d80c1a54d.png)
 
 ![image](https://user-images.githubusercontent.com/34671710/115123069-53c9c480-9f89-11eb-9796-66b128af185c.png)
 
