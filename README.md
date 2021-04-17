@@ -40,7 +40,7 @@ This ETF is for only an academic exercise and should not be taken as an investme
 
 
 
-## 2.0 Tools used
+## 8. Tools used ##
 
 ```
 first Part
@@ -61,21 +61,13 @@ News API
 Second Part
 
 ```
-## 3. Prospectus of the ETF / Model.
-### a. Stock picking idea Generation propietary Model
-	Curated author feeds from Twitter, finds top stock with social sentiment
-
-### b. Portfolio management
-	Top 5 stocks selection, based on news sentiment 
-	News API
-	Vader Model
-	BERT model
 
 
-## 4. Link to our code.
+
+## 9. Link to our code ##
 
 
 
 
 ## Reference ##
-This ETF is build upon a proof of concept exercise conducted under: 
+This ETF is build upon a proof of concept exercise conducted under: (https://github.com/absahir/D.E.G.A._StockScreener)
