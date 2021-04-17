@@ -46,12 +46,7 @@ The portfolio performance is based on a 14-day trading cycle. The fund has manag
 
 ![image](https://user-images.githubusercontent.com/34671710/115123318-74464e80-9f8a-11eb-8e08-f7bb6689e555.png)
 
-
-![image](https://user-images.githubusercontent.com/34671710/115123323-7a3c2f80-9f8a-11eb-9833-23a7e16a607b.png)
-
-
- 
- 
+  
 PRINCIPAL RISKS
 > a)	Concentration Risk: Since market sentiments tend to, at times, favor certain sectors or economy, there is chance that the Funds’ investment can get crowded into a particular sector. The regular reviews of the sector will help in mitigating this risk.
 > b)	Market Risk: The investments are exposed subject to the market risk like all investments. The diverse nature of the portfolio will help in mitigating a few of the risks.
