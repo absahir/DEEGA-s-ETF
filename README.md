@@ -31,6 +31,18 @@ ETF - Benchmarking
 
 ETF - performance and results 
 	No clear path yet, dependent on data results
+	
+	
+## INVESTMENT OBJECTIVE ## 
+DEEGA-S ETF (the “Fund”) is intended to be an actively managed blend ETF that seeks to replicate DEGA’s proprietary US equity sentiment Index with an aim to beat S&P 500 (the “Benchmark) before fees and expenses.
+
+## PRINCIPAL INVESTMENT STRATEGIES ##
+Under normal conditions the Fund intends to invest 100% of its net assets in an equally weighted in securities that comprise top 10 of the DEGA’s US Equity Sentiment Index constructed using a proprietary methodology. The companies that qualify to be included in this index are all companies traded on three principal indexes (S&P 500, DJIA, and NASDAQ) with a market cap > USD 2 Billion. Since this is a sentiment bases active investment strategy, the fund managers review the portfolio on a regular basis and rebalance the holdings to reflect the latest composition of the Equity Sentiment Index.
+
+## FUND FEES AND EXPENSES ##
+Since fees and expenses play and important part in your overall returns, we aim to keep it low as compared to many of our peers. What enables us to keep our expenses low is the power of machine learning. 
+![image](https://user-images.githubusercontent.com/34671710/115122960-c8e8ca00-9f88-11eb-9bfa-4b924765faec.png)
+
 
 ## 2.0 Tools used
 
