@@ -22,15 +22,6 @@ Reddit API
 		Decision to include positions on 5 out of the 10 stocks
 		Frequency + classification ( positive, neutral, negative)
 
-ETF - Prospectus
-	PDF document explaining Fund characteristics
-	Rebalancing of the portfolio is based on ETF manager discretion, based on data availability
-
-ETF - Benchmarking
-	Compare to other sources of analysis, as it is not possible to backtest with the amount of data that we have. No clear path yet, dependent on data results
-
-ETF - performance and results 
-	No clear path yet, dependent on data results
 	
 	
 ## INVESTMENT OBJECTIVE ## 
@@ -39,16 +30,26 @@ DEEGA-S ETF (the “Fund”) is intended to be an actively managed blend ETF tha
 ## PRINCIPAL INVESTMENT STRATEGIES ##
 Under normal conditions the Fund intends to invest 100% of its net assets in an equally weighted in securities that comprise top 10 of the DEGA’s US Equity Sentiment Index constructed using a proprietary methodology. The companies that qualify to be included in this index are all companies traded on three principal indexes (S&P 500, DJIA, and NASDAQ) with a market cap > USD 2 Billion. Since this is a sentiment bases active investment strategy, the fund managers review the portfolio on a regular basis and rebalance the holdings to reflect the latest composition of the Equity Sentiment Index.
 
+PORTFOLIO MANAGERS:
+David Costa, Evita Louissaint, Esteban Cervantes, Gabriela Galarza, Abhishek Srivastava. 
+
 ## FUND FEES AND EXPENSES ##
 Since fees and expenses play and important part in your overall returns, we aim to keep it low as compared to many of our peers. What enables us to keep our expenses low is the power of machine learning. 
 
 PORTFOLIO PERFORMANCE
+
+The portfolio performance is based on a 14-day trading cycle. The fund has managed to meet all its targets set by the portfolio managers, including beating the benchmark S&P 500. 
                        
 ![image](https://user-images.githubusercontent.com/34671710/115123185-ef5b3500-9f89-11eb-8671-acd18ee50f14.png)
 
+![image](https://user-images.githubusercontent.com/34671710/115123309-67c1f600-9f8a-11eb-95f8-973d93f867e3.png)
+
+![image](https://user-images.githubusercontent.com/34671710/115123318-74464e80-9f8a-11eb-8e08-f7bb6689e555.png)
 
 
-The portfolio performance is based on a 14-day trading cycle. The fund has managed to meet all its targets set by the portfolio managers, including beating the benchmark S&P 500. 
+![image](https://user-images.githubusercontent.com/34671710/115123323-7a3c2f80-9f8a-11eb-9833-23a7e16a607b.png)
+
+
  
  
 PRINCIPAL RISKS
