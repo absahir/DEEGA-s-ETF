@@ -5,25 +5,8 @@
 
 ## 1.Project Outline ##
 
-3 months of data from news api, bloomberg api, and reddit api
-
-
-ETF - Portfolio construction
-	Idea Generation
-		Twitter Data (starting point for Stock idea generation, at least 10 stocks)
-	Data sources (3months of data for start), this is to test market sentiment on each stock
-Bloomberg API
-News API
-Reddit API
-	Data processing (filter, decision criteria for picking top stocks out of the sample)
-		Frequency
-		Classification ( positive, neutral, negative), Probably NLP processing
-	Stocks selection
-		Decision to include positions on 5 out of the 10 stocks
-		Frequency + classification ( positive, neutral, negative)
-
-	
-	
+This project is aimed at utilizing NLP, ML and cutting-edge sentiment analysis techniques to analyse data from Twitter API, and News API to inform investment decision in order to build and backtest an ETF.
+		
 ## INVESTMENT OBJECTIVE ## 
 DEEGA-S ETF (the “Fund”) is intended to be an actively managed blend ETF that seeks to replicate DEGA’s proprietary US equity sentiment Index with an aim to beat S&P 500 (the “Benchmark) before fees and expenses.
 
@@ -91,3 +74,9 @@ Second Part
 
 
 ## 4. Link to our code.
+
+
+
+
+## Reference ##
+This ETF is build upon the proof of concent work done under
